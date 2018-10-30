@@ -39,4 +39,4 @@ produce the following results, depending on the number used.
 | One | *Italic* |
 | Two | **Bold** |
 | Three | ***Bold and Italic*** |
-| Four or more | ****No further effect, reverts to bold**** |
+| Four or more | ******No further effect, reverts to bold****** |
