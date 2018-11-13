@@ -27,7 +27,7 @@ An increased number of hash symbols creates a smaller heading.
 
 For example:
 
-> ### *"(These blockquotes) would also be apt for bringing attention to key quotes from the body of text."*
+> ### *"(These blockquotes) would also be ideal for bringing attention to key quotes from the body of text."*
 
 **Bold**, *italics*, and ***the two combined*** are done through the use of asterisks. 
 Asterisks either side of the text (with no space between the asterisk and the first and last characters, for example typing
