@@ -44,12 +44,13 @@ ___
 
 Structuring a table such as the one above appears as follows: 
 
-`| 1 | 2 | 3 |` - The top row of a table essentially designates the start of a table.
+`| 1 | 2 | 3 |` - The top row of a table essentially designates the start of a table. This row will follow the alignment rules that appear in the 2nd row.
 
-`|:----|:-----:|-----:|` - These desingate the alignment of each collumn. 
+`|:----|:-----:|-----:|` - These desingate the alignment of each collumn.
+
 `|:---|` for left-alighted, `|:---:|` for centred, and `|---:|` for right-aligned.
 
-`| Left-aligned | Centred | Right-aligned |` - Following rows are structured in the same manner as the top row.
+`| Left-aligned | Centred | Right-aligned |` - Following rows are structured in the same manner as the top row, and follow the alignment rules of the second row.
 
 `| A | B | C |`
 
