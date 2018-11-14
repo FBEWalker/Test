@@ -46,11 +46,14 @@ Structuring a table such as the one above appears as follows:
 > ### Sample Text Box
 > Where in my own projects a text box like this would be used for rules inserts, like quick references to related rulings, in this
 > context the text box serves similar funtion in bringing an aside that can be treated separate to the main body of the text.
-> With the style of this site, it would also be apt for bringing attention to key quotes from the body of text.
+> With the style of this site, it would also be ideal for bringing attention to key quotes from the body of text, done using the hash symbol for the heading effect (starting with the appropriate number of hash symbols).
 
 For example:
 
 > ### *"(These blockquotes) would also be ideal for bringing attention to key quotes from the body of text."*
+
+A text box is created by starting every line with the following: `> `. This symbol must be followed with a space to create a text box. After this space, one can start a new line as normal, such as with enlarged text using the hash symbol, or with an asterisk for bullet-points.
+
 
 **Bold**, *italics*, and ***the two combined*** are done through the use of asterisks. 
 Asterisks either side of the text (with no space between the asterisk and the first and last characters, for example typing
