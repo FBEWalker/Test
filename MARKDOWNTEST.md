@@ -95,15 +95,17 @@ Dividing lines can be produced with a row of three asterisks, dashes, or undersc
 
 ***
 
-# Hyperlinks
+## Hyperlinks
 
-For hyperlinks, surround the word that you want to be the link with `[ ]`, then the url with `( )` immediately afterwards, so that there is no space between the second bracket of the first pair, and the first bracket of the second pair. `[Link](url of link)` 
+For hyperlinks, surround the word that you want to be the link with `[ ]`, then the url with `( )` immediately afterwards, so that there is no space between the second bracket of the first pair, and the first bracket of the second pair. 
 
-For example, `[Wellcome](https://wellcome.ac.uk/)` will appear as [Wellcome](https://wellcome.ac.uk/).
+`[Link](url of link)` 
+
+For example, `[Wellcome](https://wellcome.ac.uk/)` will appear as [Wellcome](https://wellcome.ac.uk/), and link to https://wellcome.ac.uk/.
 
 ---
 
-# Images
+## Images
 
 Inserting an image can vary with different versions of markdown-based software. In this format, an image is inserted using `![]()`, in which the first pair of brackets is left empty, and the second pair contains the url for an image hosted online, or an image hosted within the same repository as the markdown document.
 
@@ -112,4 +114,4 @@ produces the following image.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/2000px-Wellcome_Trust_logo.svg.png)
 
-
+### Resizing Images
