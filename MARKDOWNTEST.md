@@ -107,7 +107,7 @@ For example, `[Wellcome](https://wellcome.ac.uk/)` will appear as [Wellcome](htt
 
 ## Images
 
-Inserting an image can vary with different versions of markdown-based software. In this format, an image is inserted using `![]()`, in which the first pair of brackets is left empty, and the second pair contains the url for an image hosted online, or an image hosted within the same repository as the markdown document.
+Inserting an image can vary with different versions of markdown-based software. In this format, there are two primary ways of insering an image. The first is `![]()`, in which the first pair of brackets is left empty, and the second pair contains the url for an image hosted online, or an image hosted within the same repository as the markdown document.
 
 For example, `![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/2000px-Wellcome_Trust_logo.svg.png)`
 produces the following image.
