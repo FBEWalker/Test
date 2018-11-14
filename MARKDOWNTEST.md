@@ -1,6 +1,5 @@
 # Markdown Test
-This document is a test to demonstrate that my knowledge of using markdown, developed while creating personal projects with TheHomebrewery,
-can be effectively carried over to my role at the Wellcome Trust.
+This document is a test to demonstrate that my knowledge of using markdown, developed while creating personal projects with a markdown-based graphic design site, can be effectively carried over to my role at the Wellcome Trust.
 
 Headings are made by preceding the text at the start of a line using a hash symbol, for example 
 
@@ -8,14 +7,26 @@ Headings are made by preceding the text at the start of a line using a hash symb
 
 # Title 
 
-An increased number of hash symbols creates a smaller heading.
+An increased number of hash symbols creates a smaller heading, as follows
+
+# Title (`# Title`)
+
+## Title (`## Title`)
+
+### Title (`### Title`)
+
+#### Title (`#### Title`)
+
+##### Title (`##### Title`)
+
+###### Title (`###### Title`)
 
 ### Tables
 
 ##### Sample Table
 |1 |2 |3 |
 |:----|:-----:|-----:|
-|Right aligned | Centred | Left |
+| Right aligned | Centred | Left aligned |
 | A | B | C |
 
 
