@@ -84,3 +84,11 @@ produce the following results, depending on the number used.
 | Two | **Bold** |
 | Three | ***Bold and Italic*** |
 | Four or more | ******No further effect, reverts to bold****** |
+
+---
+
+## Dividing lines
+
+Dividing lines can be produced with a row of three asterisks, dashes, or underscores. `***`, `---` or `___`.
+
+***
