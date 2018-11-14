@@ -21,14 +21,26 @@ An increased number of hash symbols creates a smaller heading, as follows
 
 ###### Title (`###### Title`)
 
+While the last two appear as bold text and the same size as regular text, these may have different appearances on different markdown based programs. As a rule, hash symbols must be used at the start of a line to produce these results. Otherwise they come out like this: ## Title
+
 ### Tables
 
 ##### Sample Table
-|1 |2 |3 |
+| 1 | 2 | 3 |
 |:----|:-----:|-----:|
-| Right aligned | Centred | Left aligned |
+| Left-aligned | Centred | Right-aligned |
 | A | B | C |
 
+
+Structuring a table such as the one above appears as follows: 
+
+`| 1 | 2 | 3 |` - The top row of a table essentially designates the start of a table.
+
+`|:----|:-----:|-----:|` - These desingate the alignment of each collumn. `|:---|` for left-alighted, `|:---:|` for centred, and `|---:|` for right-aligned.
+
+`| Left-aligned | Centred | Right-aligned |` - Following rows are structured in the same manner as the top row.
+
+`| A | B | C |`
 
 
 > ### Sample Text Box
