@@ -5,7 +5,7 @@ Headings are made by preceding the text at the start of a line using a hash symb
 
 `# Title` would produce the following:
 
-# Title 
+# Titles and headings 
 
 An increased number of hash symbols creates a smaller heading, as follows
 
@@ -23,7 +23,17 @@ An increased number of hash symbols creates a smaller heading, as follows
 
 While the last two appear as bold text and the same size as regular text, these may have different appearances on different markdown based programs. As a rule, hash symbols must be used at the start of a line to produce these results. Otherwise they come out like this: ## Title
 
-### Tables
+___
+
+## Bullet points
+
+In a similar way to how a title or heading is added with a hash symbol, lines starting with an asterisk produce bullet points, such as `* Line 1`. The same result is produced by starting a line with a dash, such as `- Line 2`.
+
+* Line 1
+- Line 2
+___
+
+## Tables
 
 ##### Sample Table
 | 1 | 2 | 3 |
@@ -36,12 +46,16 @@ Structuring a table such as the one above appears as follows:
 
 `| 1 | 2 | 3 |` - The top row of a table essentially designates the start of a table.
 
-`|:----|:-----:|-----:|` - These desingate the alignment of each collumn. `|:---|` for left-alighted, `|:---:|` for centred, and `|---:|` for right-aligned.
+`|:----|:-----:|-----:|` - These desingate the alignment of each collumn. 
+`|:---|` for left-alighted, `|:---:|` for centred, and `|---:|` for right-aligned.
 
 `| Left-aligned | Centred | Right-aligned |` - Following rows are structured in the same manner as the top row.
 
 `| A | B | C |`
 
+___
+
+## Text Boxes
 
 > ### Sample Text Box
 > Where in my own projects a text box like this would be used for rules inserts, like quick references to related rulings, in this
@@ -54,6 +68,9 @@ For example:
 
 A text box is created by starting every line with the following: `> `. This symbol must be followed with a space to create a text box. After this space, one can start a new line as normal, such as with enlarged text using the hash symbol, or with an asterisk for bullet-points.
 
+___
+
+## Bold and Italic
 
 **Bold**, *italics*, and ***the two combined*** are done through the use of asterisks. 
 Asterisks either side of the text (with no space between the asterisk and the first and last characters, for example typing
