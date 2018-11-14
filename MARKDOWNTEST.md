@@ -95,9 +95,16 @@ Dividing lines can be produced with a row of three asterisks, dashes, or undersc
 
 ***
 
-[Wellcome](https://wellcome.ac.uk/)
+# Hyperlinks
 
+For hyperlinks, surround the word that you want to be the link with `[ ]`, then the url with `( )` immediately afterwards, so that there is no space between the second bracket of the first pair, and the first bracket of the second pair. 
+
+For example, `[Wellcome](https://wellcome.ac.uk/)` will appear as [Wellcome](https://wellcome.ac.uk/).
+
+---
+
+# Images
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/2000px-Wellcome_Trust_logo.svg.png)
 
-add hyperlinks andimages section
+
