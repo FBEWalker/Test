@@ -114,4 +114,12 @@ produces the following image.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/2000px-Wellcome_Trust_logo.svg.png)
 
+Images can also be added with the following method, for the same result. `<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/2000px-Wellcome_Trust_logo.svg.png">` This method, where the image url is placed in as follows, `<img src="`Image URL`">` is preferable, as this allows the image to be resized.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/2000px-Wellcome_Trust_logo.svg.png">
+
 ### Resizing Images
+
+To resize an image added using the latter line of code, after the URL, add either `height="` or `width="`, followed by the intended height or width in pixels. The ideal value for this may not be obvious, so it's worth trying different values to work out the right size. For example, `<img src="`Image URL`" width="48">` produces an image with a width of 48 pixels, like the following:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/2000px-Wellcome_Trust_logo.svg.png" width="48">
