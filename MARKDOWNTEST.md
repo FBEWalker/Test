@@ -1,11 +1,13 @@
 # Markdown Test
 This document is a test to demonstrate that my knowledge of using markdown, developed while creating personal projects with a markdown-based graphic design site, can be effectively carried over to my role at the Wellcome Trust.
 
+# Titles and headings 
+
 Headings are made by preceding the text at the start of a line using a hash symbol, for example 
 
 `# Title` would produce the following:
 
-# Titles and headings 
+# Title
 
 An increased number of hash symbols creates a smaller heading, as follows
 
