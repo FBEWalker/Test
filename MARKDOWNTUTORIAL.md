@@ -1,7 +1,7 @@
 # Markdown Tutorial
 This tutorial covers the most important features fo markdown for use in creating markdown documents or a wiki on github. While markdown has some features not covered in this tutorial, many  of them will not apply to work on the Wellcome github repositories.
 
-# Titles and headings 
+## Titles and headings 
 
 Headings are made by preceding the text at the start of a line using a hash symbol, for example 
 
@@ -61,8 +61,7 @@ ___
 ## Text Boxes
 
 > ### Sample Text Box
-> Where in my own projects a text box like this would be used for rules inserts, like quick references to related rulings, in this
-> context the text box serves similar funtion in bringing an aside that can be treated separate to the main body of the text.
+> The text box can be used to bring an aside that can be treated as separate to the main body of the text.
 > With the style of this site, it would also be ideal for bringing attention to key quotes from the body of text, done using the hash symbol for the heading effect (starting with the appropriate number of hash symbols).
 
 For example:
