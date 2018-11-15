@@ -125,3 +125,5 @@ To resize an image added using the latter line of code, after the URL, add eithe
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/2000px-Wellcome_Trust_logo.svg.png" width="48">
 
 ---
+
+:+1:
