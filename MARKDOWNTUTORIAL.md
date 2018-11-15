@@ -1,5 +1,5 @@
-# Markdown Test
-This document is a test to demonstrate that my knowledge of using markdown, developed while creating personal projects with a markdown-based graphic design site, can be effectively carried over to my role at the Wellcome Trust.
+# Markdown Tutorial
+This tutorial covers the most important features fo markdown for use in creating markdown documents or a wiki on github. While markdown has some features not covered in this tutorial, many  of them will not apply to work on the Wellcome github repositories.
 
 # Titles and headings 
 
