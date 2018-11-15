@@ -5,9 +5,9 @@ This tutorial covers the most important features fo markdown for use in creating
 
 Headings are made by preceding the text at the start of a line using a hash symbol, for example 
 
-`# Title` would produce the following:
+`# Title 1` produces the following:
 
-# Title
+# Title 1
 
 An increased number of hash symbols creates a smaller heading, as follows
 
