@@ -68,7 +68,7 @@ For example:
 
 > ### *"(These blockquotes) would also be ideal for bringing attention to key quotes from the body of text."*
 
-A text box is created by starting every line with the following: `> `. This symbol must be followed with a space to create a text box. After this space, one can start a new line as normal, such as with enlarged text using the hash symbol, or with an asterisk for bullet-points.
+A text box is created by starting each line intended to be within a textbox with the following: `> `. This symbol must be followed with a space to create a text box. After this space, one can start a new line as normal, such as with enlarged text using the hash symbol, or with an asterisk for bullet-points.
 
 ___
 
