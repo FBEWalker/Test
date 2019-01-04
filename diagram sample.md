@@ -14,19 +14,19 @@ Guidelines on how to undertake sensitivity review and document the results are p
 ***Fig. 2* Risk assessment for records containing personal data without permission (for on-site access)**
 <img src="https://github.com/FBEWalker/Test/blob/master/diagram.jpg?raw=true" width="4000">
 
-**1.	Identifiable individuals**
+### 1.	Identifiable individuals
 
 Information that distinguishes an individual from other members of a group. As well as written information, a person can be identified from their body, most commonly their face, but possibly also other distinguishing body features such as tattoos or birthmarks. Voices are also considered identifying information.
 
-**2.	Data has been made public as a result of steps deliberately taken by the individual**
+### 2.	Data has been made public as a result of steps deliberately taken by the individual
 
 In the absence of documented consent from the individual, we use our judgement to decide whether they have deliberately participated in making their data public, the circumstances around this and thus whether the information can be made available by us. We consider the extent to which the information has previously been made public and whether circumstances have since changed, which might suggest that disclosure could have a detrimental effect on the individual. 
 
-**3.	Material was created for and distributed to a wide, general public audience/specific, limited public audience**
+### 3.	Material was created for and distributed to a wide, general public audience/specific, limited public audience
 
 Was the material intended for or distributed to a wide general audience (e.g. a public information film designed to encourage public uptake of TB testing), or was it created for a specific, limited audience (e.g. a recording of an operation made as a surgical training aid)?
 
-**4.	Content that is distressing or offensive to the viewer**
+### 4.	Content that is distressing or offensive to the viewer
 
 Written description, imagery or audio that the viewer may find distressing, uncomfortable or harmful. Content can include, but is not limited to:
 * Gore and bodily fluids
@@ -41,7 +41,7 @@ Written description, imagery or audio that the viewer may find distressing, unco
 *	Graphic drug use 
 *	Flashing images
 
-**5.	Vulnerable people and people in a vulnerable position**
+### 5.	Vulnerable people and people in a vulnerable position
 This can include but is not limited to:
 *	Being associated with a something that carries stigma and/or is controversial (i.e. mental health problems, STIs, abortion, learning difficulties)
 *	Nudity 
@@ -49,18 +49,18 @@ This can include but is not limited to:
 *	Being in restraints or being restrained
 *	Engaging in animal experimentation
 
-**6.	Manual filing system**
+### 6.	Manual filing system
 
 A set of records that are held in a sufficiently structured way as to allow ready access to specific information about individuals.
 
-**7.	Special category personal data**
+### 7.	Special category personal data
 
 These are types of personal information that are considered more sensitive under data protection law and which therefore require more protection. This can include information about an individual’s: health; sex life; sexual orientation; race; ethnic origin; genetics; biometrics (where used for ID purposes); political view; and trade union membership. All such information should be considered more carefully when reviewing material.
  
-**8.	There is additional information in the surrounding files to increase sensitivity**
+### 8.	There is additional information in the surrounding files to increase sensitivity
 
 Information can be extracted from surrounding records or catalogue metadata to increase the sensitivity of the file. For instance, a photograph of workshop participants with a catalogue description identifying the location as a psychiatric hospital.
 
-**9.	Close, restrict or redact on a case by case basis (see page X for a definition of these statuses)**
+### 9.	Close, restrict or redact on a case by case basis (see page X for a definition of these statuses)
 
 A decision will be based on the exact nature of the sensitive data, its relevance to the rest of the file and the level of potential distress that could be caused. 
