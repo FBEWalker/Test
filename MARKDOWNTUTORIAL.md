@@ -23,7 +23,7 @@ An increased number of hash symbols creates a smaller heading, as follows
 
 ###### Title (`###### Title`)
 
-While the last two appear as bold text and the same size as regular text, these may have different appearances on different markdown based programs. As a rule, hash symbols must be used at the start of a line to produce these results. Otherwise they come out like this: ## Title
+While the last two appear as bold text and the same size as regular text, these may have different appearances on different markdown-based programs. As a rule, hash symbols must be used at the start of a line to produce these results. Otherwise they come out like this: ## Title
 
 ___
 
