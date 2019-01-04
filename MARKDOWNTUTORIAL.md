@@ -58,17 +58,17 @@ Structuring a table such as the one above appears as follows:
 
 ___
 
-## Text Boxes
+## Blockquotes
 
-> ### Sample Text Box
-> The text box can be used to bring an aside that can be treated as separate to the main body of the text.
+> ### Sample Blockquote
+> The blockquote can be used to bring an aside that can be treated as separate to the main body of the text.
 > With the style of this site, it would also be ideal for bringing attention to key quotes from the body of text, done using the hash symbol for the heading effect (starting with the appropriate number of hash symbols).
 
 For example:
 
 > ### *"(These blockquotes) would also be ideal for bringing attention to key quotes from the body of text."*
 
-A text box is created by starting each line intended to be within a textbox with the following: `> `. This symbol must be followed with a space to create a text box. After this space, one can start a new line as normal, such as with enlarged text using the hash symbol, or with an asterisk for bullet-points.
+A blockquote is created by starting each line intended to be within a textbox with the following: `> `. This symbol must be followed with a space to create a blockquote. After this space, one can start a new line as normal, such as with enlarged text using the hash symbol, or with an asterisk for bullet-points. In some other variations of Markdown, the blockquote code may be repurposed for text boxes.
 
 ___
 
