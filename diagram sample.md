@@ -11,7 +11,7 @@ We use the workflow below (fig. 2) to guide decision making when determining the
 Guidelines on how to undertake sensitivity review and document the results are provided in Section X. Guidelines on appropriate closure and restricted periods are provided in Section X. Guidelines on applying the Open With Advisory status are provided in Section X.  
 
  
-***Fig. 2* Risk assessment for records containing personal data without permission (for on-site access)*
+***Fig. 2* Risk assessment for records containing personal data without permission (for on-site access)**
 <img src="https://github.com/FBEWalker/Test/blob/master/diagram.jpg?raw=true" width="4000">
 
 **1.	Identifiable individuals**
