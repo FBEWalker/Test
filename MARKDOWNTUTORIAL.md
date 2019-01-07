@@ -62,7 +62,7 @@ ___
 
 > ### Sample Blockquote
 > The blockquote can be used to bring an aside that can be treated as separate to the main body of the text.
-> With the style of this site, it would also be ideal for bringing attention to key quotes from the body of text, done using the hash symbol for the heading effect (starting with the appropriate number of hash symbols).
+> With the style of this site, it would also be ideal for bringing attention to key quotes from the body of text, which can be enlarge by using the hash symbol for the heading effect (starting with the appropriate number of hash symbols).
 
 For example:
 
